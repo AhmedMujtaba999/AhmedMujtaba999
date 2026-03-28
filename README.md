@@ -50,6 +50,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
+## 📈 Contribution Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMujtaba999&theme=tokyo-night&hide_border=true" />
+</p>
+
 
 ## 📊 GitHub Stats (Real-Time)
 
