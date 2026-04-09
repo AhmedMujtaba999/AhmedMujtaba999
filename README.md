@@ -63,7 +63,7 @@
 ## 📊 GitHub Stats (Real-Time)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMujtaba999&show_icons=true&theme=tokyonight" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AhmedMujtaba999&show_icons=true&theme=tokyonight" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMujtaba999&theme=tokyonight" />
 </p>
 
