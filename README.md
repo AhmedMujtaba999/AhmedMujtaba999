@@ -96,6 +96,3 @@
 ## ⚡ Fun Fact
 
 💡 I enjoy building real-world systems using AI, cloud, full stack development, and automation.
-
-this is my current readme 
-i want animations 
