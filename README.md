@@ -1,7 +1,15 @@
 
 <!-- ================= HEADER ================= -->
-<h1 align="center">Ahmed Mujtaba</h1>
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Ahmed Mujtaba</h1>
+
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Cloud+%26+DevOps+Learner;Building+Real+World+Systems;React+%7C+Node+%7C+AWS+%7C+Flutter" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AhmedMujtaba999&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
   
 <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=2500&pause=1200&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Cloud+%26+DevOps+Learner;Building+Scalable+Web+Applications;System+Design+%26+Automation+Engineer" />
 </p>
