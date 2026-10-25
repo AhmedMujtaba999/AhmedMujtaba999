@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mujtaba</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML;Cloud+%26+DevOps+Learner;Building+Real+World+Systems;React+%7C+Node+%7C+AWS+%7C+Flutter" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Inference+System+Engineer;Full+Stack+Developer;AI%2FML+Engineer;Cloud+%26+DevOps+Learner;Building+Real+World+Systems;React+%7C+Node+%7C+AWS+%7C+Flutter" />
 </p>
 
 
